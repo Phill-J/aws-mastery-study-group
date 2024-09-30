@@ -1,1 +1,0 @@
-# aws-mastery-study-group
